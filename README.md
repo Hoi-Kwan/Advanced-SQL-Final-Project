@@ -1,4 +1,4 @@
-# Final Project: Analysing Company 3 Year Performance with SQL
+# Final Project: Analysing Company 3-Year Performance with SQL
 I have been hired as an E-Commerce Database Analayst for Maven Fuzzy Factory, a fictive online retailer which has been in the market for 3 years. As a member of the startup team, I will work with the CEO, the Marketing Director and the Website Manager to help steer the business. <br>
 <br>
 # The Project Background
